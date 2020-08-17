@@ -11,7 +11,7 @@ trim_trailing_whitespace = true
 [*.php]
 max_line_length = 120
 
-[*.{html,js,vue,css,less,scss,blade.php}]
+[*.{html,js,vue,css,less,scss,blade.php,json}]
 indent_size = 2
 max_line_length = off
 
